@@ -1,0 +1,29 @@
+body {
+  background-color: palevioletred;
+}
+.row .col {
+  background-color: pink;
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+h3 h4 {
+  text-align: center;
+}
+ul {
+  text-align: left;
+}
+a {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.img-menu {
+  text-align: right;
+  height: 185px;
+  width: 230px;
+}
